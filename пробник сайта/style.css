@@ -1,0 +1,176 @@
+.message{
+	color :#0B12B4  ;
+	background-color:#01FB51;
+	text-align:center;
+	border: 2px solid #020205;
+	font-size:22px;
+	margin-bottom:7px;
+}
+
+.first{
+	list-style:none;
+	padding: 20px;
+	margin:0;
+}
+a{
+	font-size:30px;
+	padding:20px;
+	color:#050505;
+	text-decoration:none;
+}
+a:hover{
+	color:#110DF5  ;
+}
+.lol{
+	display:inline;
+}
+body{
+	background: url(https://png.pngtree.com/thumb_back/fw800/background/20191011/pngtree-abstract-white-background-with-rounded-squares-image_319149.jpg) ;
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:100 vh;
+
+}
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+header{
+	background:linear-gradient(#34EF0B ,#FFE800) ;
+}
+.footer{
+	
+	
+
+}
+.inner-footer{
+	height:70px;
+	margin-top:100px;
+	width:100%;
+	text-align:left;
+	border: 1px solid #020205;
+	
+	
+}
+.content{
+	width:100%;
+	
+	
+}
+.inner-content{
+	min-height:500px;
+}
+.row:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+.row { display: inline-block; }
+/* start commented backslash hack \*/
+* html .row { height: 1%; }
+.row{ display: block; }
+.bo{
+	font-size:22px;
+	padding:30px;
+	color:#050505;
+	text-decoration:none;
+	
+}
+.lo{
+	margin:12px;
+	text-align:left;
+	
+}
+p{
+	margin:7px;
+	font-size:18px;
+	
+}
+.fo{
+	text-align:center;	
+	
+}
+.mo{
+	text-indent:25px;
+}
+.ab{
+	border: 2px solid #020205;
+	padding:10px;
+	margin:10px;
+}	
+.mod{
+	background:background:linear-gradient(#34EF0B ,#FFE800) ;
+	
+}
+.un{
+	text-align:center;	
+	border: 1px solid #020205;
+	padding: 15px;
+	font-size:24px;
+	
+}
+.text{
+	padding: 20px;
+	margin:0;
+	font-size:18px;
+	list-style:none;
+}
+.u{
+	padding: 20px;
+	margin:0;
+	font-size:24px;
+	list-style:none;
+	text-indent:450px;
+}
+.m{
+	text-indent:450px;
+}
+
+	
+}
+.dok{
+	width:10px;
+	height:10px;
+	
+
+}
+.social 1{
+	float:left;
+
+	font-size:10px;
+	
+}
+.op{
+	font-size:10px;
+}
+
+.block_2{
+	
+	border: 2px solid #020205;
+	margin-left:10px;
+	max-width:1000px;
+	display:inline-block;
+	
+}
+.block_1{
+	border: 2px solid #020205;
+	max-width:300px;
+	display:inline-block;
+	margin-left:80px;
+	
+	vertical-align:top;
+	
+	
+}
+.hj{
+	font-size:22px;
+	color:red;
+}
+.co{
+	text-indent:25px;
+	font-size:22px;
+}}
